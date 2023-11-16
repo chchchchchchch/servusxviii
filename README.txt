@@ -1,9 +1,15 @@
- Graphic Design for servus.at Workshop Promotion.
+
+ GRAPHIC DESIGN FOR servus.at WORKSHOP PROMOTION
                     ---------
 
+ -> How? Why? Alle:oha!
 
 
 
+
+ -------------------------------------------------------------
+ Twitter Emoji by 2019 Twitter, Inc. and other contributors 
+ used under Creative Commons Attribution License (CC-BY 4.0)
  -------------------------------------------------------------
  Copyright (C) 2018 Christoph Haag
  -------------------------------------------------------------
@@ -13,7 +19,7 @@
  of any of the following licenses (LICENSES.txt)
  
  1. the Creative Commons Attribution-ShareAlike License;
-    either version 3.0 of license or any later version.
+    either version 4.0 of license or any later version.
     --
     http://creativecommons.org/licenses/by-sa/3.0
   
@@ -36,6 +42,4 @@
  IS COPYRIGHTED ACCORDING TO ITS RESPECTIVE OWNERS. 
 
  E N J O Y !
-
  -------------------------------------------------------------
-
